@@ -1,0 +1,34 @@
+{
+  "ff_config": {
+    "name": "FF MAX Config",
+    "file_name": "localconfig.json",
+    "download_url": "https://raw.githubusercontent.com/hamzzganteng60-eng/hamz-update/main/localconfig.json",
+    "version": "2.7"
+  },
+  "ml_skins": [
+    {
+      "name": "YSS DEFAULT TO CC",
+      "file_name": "yss_skin_cc.zip",
+      "download_url": "https://raw.githubusercontent.com/hamzzganteng60-eng/hamz-update/main/yss_skin_cc.zip",
+      "version": "1.0"
+    },
+    {
+      "name": "LANCELOT DEFAULT TO DAWNING",
+      "file_name": "lancelot_skin_dawning.zip",
+      "download_url": "https://raw.githubusercontent.com/hamzzganteng60-eng/hamz-update/main/lancelot_skin_dawning.zip",
+      "version": "1.0"
+    },
+    {
+      "name": "FANNY DEFAULT TO ASPIRANT",
+      "file_name": "fanny_skin_aspirant.zip",
+      "download_url": "https://raw.githubusercontent.com/hamzzganteng60-eng/hamz-update/main/fanny_skin_aspirant.zip",
+      "version": "1.0"
+    },
+    {
+      "name": "GRANGER DEFAULT TO LEGEND",
+      "file_name": "granger_skin_legend.zip",
+      "download_url": "https://raw.githubusercontent.com/hamzzganteng60-eng/hamz-update/main/granger_skin_legend.zip",
+      "version": "1.0"
+    }
+  ]
+}
